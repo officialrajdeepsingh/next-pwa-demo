@@ -6,7 +6,7 @@ function Card() {
 
     <div className="max-w-sm bg-white dark:bg-gray-800">
       <a href="#">
-        <img className="rounded-lg w-fit h-[250px] p-2" src="/moon.jpg" alt="moon" />
+        <img className="rounded-lg w-fit h-[250px] p-2" src="/enable-dark-mode-in-nextjs/moon.jpg" alt="moon" />
       </a>
 
       <div className="p-1">
