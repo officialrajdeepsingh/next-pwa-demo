@@ -5,10 +5,10 @@ function Card() {
 
   return (
 
-    <div className="max-w-sm bg-white dark:bg-gray-800">
+    <div className="max-w-full bg-white dark:bg-gray-800">
 
-      <Image width={1000} height={250} className="rounded-lg w-fit h-[250px] p-2" src="/moon.jpg" alt="moon" />
 
+        <Image className="rounded-lg p-3" width={1000} height={324} src="/moon.jpg" alt="moon" />
 
       <div className="p-1">
 
