@@ -7,7 +7,7 @@ function Card() {
 
     <div className="max-w-sm bg-white dark:bg-gray-800">
 
-      <Image width={1000} height={250} className="rounded-lg w-fit h-[250px] p-2" src="/moon.jpg" alt="moon" />
+      <Image width={1000} height={250} className="rounded-lg w-fit h-[250px] p-2" src="/next-pwa-demo/moon.jpg" alt="moon" />
 
 
       <div className="p-1">
