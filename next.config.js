@@ -7,6 +7,9 @@ const withPWA = require("next-pwa")({
 module.exports = withPWA({
   swcMinify: true,
   reactStrictMode: true,
+  images: {
+    unoptimized : true 
+  },
   typescript: {
     ignoreBuildErrors: true,
   },
