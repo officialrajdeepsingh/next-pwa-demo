@@ -1,24 +1,42 @@
 {
   "orientation": "any",
-  "name": "next pwa demo",
-  "short_name": "demo",
+  "name": "Next PWA demo",
+  "short_name": "PWA Demo",
   "lang": "en-GB",
   "version": "1.0.1",
-  "description": "create a demo with pwa and nextjs",
+  "description": "The next PWA demo is an app built to teach you a basic concept. The demo app teaches you How to use PWA with nextjs.",
   "categories": [
     "developer",
     "eductaion"
   ],
   "shortcuts": [
     {
-      "name": "About",
+      "short_name": "About",
+      "name": "About us",
       "url": "/about",
-      "description": "About the author"
+      "description": "About the author",
+      "icons": [
+        {
+          "src": "/icons/icon-two96x96.png", 
+          "type": "image/png",
+          "sizes":"96x96",
+          "purpose": "any"
+        }
+      ]
     },
     {
-      "name": "Contact",
+      "name": "Contact us",
+      "short_name": "Contact",
       "url": "/contact",
-      "description": "contact page to contact us."
+      "description": "contact page to contact us.",
+      "icons": [
+        {
+          "src": "/icons/icon96x96.png",
+          "type": "image/png",
+          "sizes":"96x96",
+          "purpose": "any"
+        }
+      ]
     }
   ],
   "icons": [
@@ -89,7 +107,7 @@
       "type": "image/png"
     }
   ],
-  "background_color": "#00FF00",
+  "background_color": "#FFE683",
   "theme_color": "#0000FF",
   "id": "/?home=1",
   "start_url": "/?homes=1",
