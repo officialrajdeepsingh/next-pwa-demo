@@ -1,4 +1,4 @@
-name: Deploy Next.js blog site to Pages with pnpm
+name: Deploy Next.js with pnpm
 
 on:
   push:
