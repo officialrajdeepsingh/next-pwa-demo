@@ -96,14 +96,24 @@
   "display": "standalone",
   "screenshots": [
     {
-      "src": "https://cdn.glitch.me/248b0d2d-8ab9-4407-a073-136440ab3556/icon.png?v=1640879741758?1",
+      "src": "/Enable-pwa-1.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "1280x720"
     },
     {
-      "src": "https://cdn.glitch.me/248b0d2d-8ab9-4407-a073-136440ab3556/icon.png?v=1640879741758?2",
+      "src": "/Enable-pwa-2.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "1280x720"
+    },
+    {
+      "src": "/Enable-pwa-3.png",
+      "type": "image/png",
+      "sizes": "1280x720"
+    },
+    {
+      "src": "/Enable-pwa-4.png",
+      "type": "image/png",
+      "sizes": "1280x720"
     }
   ]
 }
