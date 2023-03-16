@@ -1,0 +1,109 @@
+{
+  "orientation": "any",
+  "name": "next pwa demo",
+  "short_name": "demo",
+  "lang": "en-GB",
+  "version": "1.0.1",
+  "description": "create a demo with pwa and nextjs",
+  "categories": [
+    "developer",
+    "eductaion"
+  ],
+  "shortcuts": [
+    {
+      "name": "About",
+      "url": "/about",
+      "description": "About the author"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact",
+      "description": "contact page to contact us."
+    }
+  ],
+  "icons": [
+    {
+      "src": "/icons/128x128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/128x128@2x.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/107x107.png",
+      "sizes": "107x107",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/142x142.png",
+      "sizes": "142x142",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/150x150.png",
+      "sizes": "150x150",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/284x284.png",
+      "sizes": "284x284",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/30x30.png",
+      "sizes": "30x30",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/310x310.png",
+      "sizes": "310x310",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/44x44.png",
+      "sizes": "44x44",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/71x71.png",
+      "sizes": "71x71",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/89x89.png",
+      "sizes": "89x89",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/StoreLogo.png",
+      "sizes": "50x50",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#00FF00",
+  "theme_color": "#0000FF",
+  "id": "/?home=1",
+  "start_url": "/?homes=1",
+  "display": "standalone",
+  "screenshots": [
+    {
+      "src": "https://cdn.glitch.me/248b0d2d-8ab9-4407-a073-136440ab3556/icon.png?v=1640879741758?1",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "https://cdn.glitch.me/248b0d2d-8ab9-4407-a073-136440ab3556/icon.png?v=1640879741758?2",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
