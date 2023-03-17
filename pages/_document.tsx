@@ -31,8 +31,9 @@ export default function Document() {
         <meta property="og:title" content="nex PWA demo" />
         <meta property="og:description" content="Best PWA App in the world" />
         <meta property="og:site_name" content="PWA App" />
-        <meta property="og:url" content="https://yourdomain.com" />
+        <meta property="og:url" content="https://next-pwa-demo-two.vercel.app/" />
         <meta property="og:image" content="/icons/StoreLogo.png" />
+
       </Head>
       <body>
         <Main />
